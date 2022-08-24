@@ -2,7 +2,6 @@ public class SumatoriaInt
         {
          public static void main(String[] args)
             {
-
             int num1=3;
             int num2=10;
             int num3=5;
@@ -16,3 +15,4 @@ public class SumatoriaInt
                     return resultado;
                 }
         }
+
